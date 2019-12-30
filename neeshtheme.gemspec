@@ -2,8 +2,8 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "neeshtheme"
-  spec.version       = "0.1.0"
-  spec.authors       = ["Mihir"]
+  spec.version       = "0.1.1"
+  spec.authors       = ["MisterMjir"]
   spec.email         = ["mihirsuks@gmail.com"]
 
   spec.summary       = "Theme for Neesh and Friends"
