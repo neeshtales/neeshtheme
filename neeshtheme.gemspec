@@ -3,8 +3,8 @@
 Gem::Specification.new do |spec|
   spec.name          = "neeshtheme"
   spec.version       = "0.1.10"
-  spec.authors       = ["MisterMjir"]
-  spec.email         = ["mihirsuks@gmail.com"]
+  spec.authors       = ["Neesh & Friends"]
+  spec.email         = ["neeshnfriends@gmail.com"]
 
   spec.summary       = "Theme for Neesh and Friends"
   spec.homepage      = "https://neeshtales.github.io"
